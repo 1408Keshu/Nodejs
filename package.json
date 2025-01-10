@@ -1,0 +1,11 @@
+{
+  "name": "keshav",
+  "version": "1.0.0",
+  "description": "\"best framework \"",
+  "main": "intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keshav",
+  "license": "ISC"
+}
